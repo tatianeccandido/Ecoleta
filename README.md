@@ -38,9 +38,6 @@ O projeto tem como finalidade **estabelecer uma conexão** entre **empresas e/ou
   - **[React Leaflet][react_leaflet]**
   - **[React Dropzone][react_dropzone]**
 
-
-  \* Veja o arquivo <kbd>[package.json](./sources/website/package.json)</kbd>
-
 #### **Server** ([NodeJS][node] + [TypeScript][typescript])
 
   - **[Express][express]**
@@ -53,8 +50,6 @@ O projeto tem como finalidade **estabelecer uma conexão** entre **empresas e/ou
   - **[Celebrate][celebrate]**
   - **[Joi][joi]**
 
-  \* Veja o arquivo <kbd>[package.json](./sources/server/package.json)</kbd>
-
 #### **Mobile** ([React Native][react_native] + [TypeScript][typescript])
 
   - **[Expo][expo]**
@@ -66,8 +61,6 @@ O projeto tem como finalidade **estabelecer uma conexão** entre **empresas e/ou
   - **[Axios][axios]**
   - **[Expo Location][expo_location]**
   - **[Expo Mail Composer][expo_mail_composer]**
-
-  \* Veja o arquivo <kbd>[package.json](./sources/mobile/package.json)</kbd>
 
 #### **Utilitários**
 
