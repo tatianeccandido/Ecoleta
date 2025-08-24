@@ -298,7 +298,7 @@ Feito com ❤️ por <a href="https://www.linkedin.com/in/mauricioromagnoli/">Ma
 
 [BADGE_LICENSE]: https://img.shields.io/github/license/x0n4d0/ecoleta
 
-[BADGE_NODE_VERSION]: https://img.shields.io/badge/node-12.17.0-green
+[BADGE_NODE_VERSION]: https://img.shields.io/badge/node-latest-green
 
 [BADGE_NPM_VERSION]: https://img.shields.io/badge/npm-6.14.4-red
 
